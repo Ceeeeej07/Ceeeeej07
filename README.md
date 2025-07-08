@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carl
+# 👋 HALOOOOOOOOOOOO
 
 Welcome to my little corner of the internet! I'm Carl, a passionate full-stack (yes, the whole “of-shii” stack 😅) web developer from the Philippines 🇵🇭, currently leveling up my skills and building cool stuff along the way.
 
