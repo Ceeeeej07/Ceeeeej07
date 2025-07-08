@@ -1,6 +1,6 @@
 # 👋 HALOOOOOOOOOOOO
 
-Welcome to my little corner of the internet! I'm Carl, a passionate full-stack (yes, the whole “of-shii” stack 😅) web developer from the Philippines 🇵🇭, currently leveling up my skills and building cool stuff along the way.
+Welcome to my little corner of the internet! I'm Carl, a passionate full-stack (yes, the whole “of-shii” stack 😅) web developer from the Philippines 🇵🇭, currently leveling up my skills and building cool stuff (not rly cool 😢) along the way.
 
 Looking to collaborate, hire, or just say hi? I’m always open to opportunities—especially the kind that help me afford a good burger 🍔.
 
