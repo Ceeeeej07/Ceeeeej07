@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carl Jude Santoceldes
+# 👋 Hi, I'm Carl
 
 Welcome to my corner of the internet. I'm a passionate noobie f(of-shii)-stack web developer from the Philippines 🇵🇭.
 Please HIRE ME lol I need money to buy food🍔.
