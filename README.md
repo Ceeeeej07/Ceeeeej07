@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carl
 
-Welcome to my corner of the internet. I'm a passionate noobie f(of-shii)-stack web developer from the Philippines 🇵🇭.
+Welcome to my corner of the internet. I'm a passionate noobie FFFFF(of-shii)-stack web developer from the Philippines 🇵🇭.
 Please HIRE ME lol I need money to buy food🍔.
 
 ---
